@@ -1,5 +1,6 @@
 # MasterBot-and-SlaveBot-for-DDoS
-•	This project is implemented in Java.
+•	This project is implemented in Java. 
+• Features of the project are explained below
 •	Multithreaded master bot server with command line user interface.
 •	Ability to connect to slave bots and perform DDoS attacks on a target host.
 •	Fake URL propagation to defeat search engine page rank algorithms.
